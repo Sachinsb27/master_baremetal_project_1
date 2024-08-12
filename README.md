@@ -19,6 +19,9 @@ The task involves:
 
 This implementation considers the following:
 0V produces an ADC result of 0.
+
 5V produces an ADC result of 4095.
+
 The actual voltage (V) is calculated as:
+
 V = ADC_Result * (5 / 4096).
