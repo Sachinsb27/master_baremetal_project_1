@@ -18,6 +18,7 @@ The task involves:
 -Controlling a USER LED connected to digital pin P3.4, which turns ON when the ADC value corresponds to a voltage greater than 1.5V.
 
 This implementation considers the following:
+
 0V produces an ADC result of 0.
 
 5V produces an ADC result of 4095.
