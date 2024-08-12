@@ -4,7 +4,6 @@ Project Overview
 This project was developed as part of a hackathon challenge, aiming to interface an LDR with an embedded system and control a USER LED based on light intensity.
 
 PROBLEM STATMENT
-
 The task involves:
 
 -Connecting an LDR to the analog pin P2.1.
